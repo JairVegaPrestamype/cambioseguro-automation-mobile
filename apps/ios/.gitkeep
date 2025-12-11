@@ -1,0 +1,8 @@
+# Coloca tus archivos APP/IPA de iOS aquí
+# Nombra los archivos de forma descriptiva, por ejemplo:
+# - MyApp.app
+# - MyApp.ipa
+# - myapp-1.0.0.app
+
+*.app/
+*.ipa
