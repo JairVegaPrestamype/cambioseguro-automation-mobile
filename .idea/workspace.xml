@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01bd24ac-d400-495b-a137-381293ca2fbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/android/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/ios/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/android_caps.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/appium_settings.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/ios_caps.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/APPIUM_SETUP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/base_page.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/driver_manager.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/helpers/gestures_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/helpers/screenshot_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/android/login_page.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/ios/login_page.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/android/login_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/ios/login_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39lrlkXExIaAAPZBnhjdlR1mc2m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/jaimerios/Documents/repositories/cambioseguro-automation-mobile",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/jaimerios/Documents/repositories/cambioseguro-automation-mobile/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.30387.83" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01bd24ac-d400-495b-a137-381293ca2fbb" name="Changes" comment="" />
+      <created>1771281651737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771281651737</updated>
+      <workItem from="1771281652754" duration="2955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/tests/settings.smoke.spec.ts</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
