@@ -1,3 +1,14 @@
 # Environment variables
 .env
 
+# Dependencias
+node_modules/
+
+# Carpetas generadas
+apps/
+reports/
+screenshots/
+tmp/
+
+# Archivos temporales
+*.log

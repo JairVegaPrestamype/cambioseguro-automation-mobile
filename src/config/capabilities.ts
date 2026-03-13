@@ -5,18 +5,12 @@ export const androidCaps = {
     "appium:automationName": "UiAutomator2",
 
     // CLAVE: fuerza el device correcto
-    "appium:udid": process.env.UDID || "emulator-5554",
-    "appium:deviceName": process.env.DEVICE_NAME || "emulator-5554",
+    "appium:udid": process.env.UDID || "AX3C026107001745",
+    "appium:deviceName": process.env.DEVICE_NAME || "Honor-Android",
 
     "appium:autoGrantPermissions": true,
-    "appium:noReset": true,
+    "appium:noReset": false,
     "appium:newCommandTimeout": 120,
-
-    "appium:appPackage": "com.android.settings",
-    "appium:appActivity": ".Settings",
-
-    "appium:appWaitPackage": "com.android.settings",
-    "appium:appWaitActivity": "*",
     "appium:appWaitDuration": 20000,
 
 };

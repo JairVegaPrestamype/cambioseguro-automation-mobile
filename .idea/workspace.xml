@@ -5,26 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01bd24ac-d400-495b-a137-381293ca2fbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/cambioseguro.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cambioseguro_11-03-26.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inspector.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773281457659-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773281744526-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773281979761-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773282152136-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773282251846-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773282815976-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773283073957-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773283097526-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773284110809-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773284619884-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/1773287122597-fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/email.helper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/permissions.helper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/welcome.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/install.app.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/register.personal.entry.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/email-counter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.rspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/android/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ios/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/android_caps.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/appium_settings.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/ios_caps.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/APPIUM_SETUP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/base_page.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/driver_manager.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/helpers/gestures_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/helpers/screenshot_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/android/login_page.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/ios/login_page.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/android/login_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/ios/login_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/capabilities.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/capabilities.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/settings.smoke.spec.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="39lrlkXExIaAAPZBnhjdlR1mc2m" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,22 +50,49 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Install App.executor": "Run",
+    "Node.js.Register Personal.executor": "Run",
+    "Node.js.Settings Smoke Test.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "CS0001",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "/Users/jaimerios/Documents/repositories/cambioseguro-automation-mobile",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.mocha.mocha_node_package_dir": "",
     "nodejs_package_manager_path": "npm",
     "ts.external.directory.path": "/Users/jaimerios/Documents/repositories/cambioseguro-automation-mobile/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Install App">
+    <configuration name="Install App" type="NodeJSConfigurationType" application-parameters="run wdio.conf.ts --spec ./src/tests/install.app.spec.ts" path-to-js-file="node_modules/@wdio/cli/bin/wdio.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="Register Personal" type="NodeJSConfigurationType" application-parameters="run wdio.conf.ts --spec ./src/tests/register.personal.entry.spec.ts" path-to-js-file="node_modules/@wdio/cli/bin/wdio.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Install App" />
+      <item itemvalue="Node.js.Register Personal" />
+    </list>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,22 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771281651737</updated>
-      <workItem from="1771281652754" duration="2955000" />
+      <workItem from="1771281652754" duration="7021000" />
+      <workItem from="1773280432934" duration="12793000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/tests/settings.smoke.spec.ts</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
